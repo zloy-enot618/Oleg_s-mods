@@ -1,0 +1,9 @@
+h1 {
+    margin-left: 500px
+}
+
+body {
+    background-image: url("https://avatars.mds.yandex.net/i?id=9ed05b18923b45c57370e68f785362451da73cee-7065709-images-thumbs&n=13");
+    background-attachment: fixed;
+    background-size: cover
+}
